@@ -8,6 +8,7 @@ Facile
 * flex
 * bison
 * cmake
+* glib
 * gcc
 
 ## Compilation
