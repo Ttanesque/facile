@@ -1,0 +1,11 @@
+.vscode
+*.zip
+build/CMakeFiles
+build/*.exe
+build/*.il
+build/*.output
+build/c*
+build/C*
+build/facile
+*.il
+*.exe

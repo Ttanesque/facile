@@ -1,0 +1,16 @@
+hello_world := 0;
+var := 1;
+
+read hello_world;
+read var;
+
+if hello_world > var then
+    print 1;
+    if var == 4 then
+        print 11;
+    end
+elseif hello_world > 2 then
+    print 2;
+else
+    print 3;
+end
